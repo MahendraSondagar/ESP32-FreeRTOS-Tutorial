@@ -13,3 +13,6 @@
 [submodule "FreeRTOS-Queue2"]
 	path = FreeRTOS-Queue2
 	url = https://github.com/MahendraSondagar/FreeRTOS-Queue2.git
+[submodule "FreeRTOS-Queue3"]
+	path = FreeRTOS-Queue3
+	url = https://github.com/MahendraSondagar/FreeRTOS-Queue3.git
