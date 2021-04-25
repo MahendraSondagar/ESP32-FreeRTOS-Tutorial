@@ -22,3 +22,6 @@
 [submodule "FreeRTOS-Recursive-Mutex1"]
 	path = FreeRTOS-Recursive-Mutex1
 	url = https://github.com/MahendraSondagar/FreeRTOS-Recursive-Mutex1.git
+[submodule "FreeRTOS-BinarySemaphore1"]
+	path = FreeRTOS-BinarySemaphore1
+	url = https://github.com/MahendraSondagar/FreeRTOS-BinarySemaphore1.git
