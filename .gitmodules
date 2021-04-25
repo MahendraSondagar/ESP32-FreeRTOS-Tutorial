@@ -7,3 +7,6 @@
 [submodule "FreeRTOS-Task3"]
 	path = FreeRTOS-Task3
 	url = https://github.com/MahendraSondagar/FreeRTOS-Task3.git
+[submodule "FreeRTOS-Queue1"]
+	path = FreeRTOS-Queue1
+	url = https://github.com/MahendraSondagar/FreeRTOS-Queue1.git
