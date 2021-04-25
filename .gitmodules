@@ -16,3 +16,6 @@
 [submodule "FreeRTOS-Queue3"]
 	path = FreeRTOS-Queue3
 	url = https://github.com/MahendraSondagar/FreeRTOS-Queue3.git
+[submodule "FreeRTOS-Mutex1"]
+	path = FreeRTOS-Mutex1
+	url = https://github.com/MahendraSondagar/FreeRTOS-Mutex1.git
