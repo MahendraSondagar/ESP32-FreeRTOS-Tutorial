@@ -1,0 +1,3 @@
+[submodule "FreeRTOS-Task1"]
+	path = FreeRTOS-Task1
+	url = https://github.com/MahendraSondagar/FreeRTOS-Task1.git
