@@ -19,3 +19,6 @@
 [submodule "FreeRTOS-Mutex1"]
 	path = FreeRTOS-Mutex1
 	url = https://github.com/MahendraSondagar/FreeRTOS-Mutex1.git
+[submodule "FreeRTOS-Recursive-Mutex1"]
+	path = FreeRTOS-Recursive-Mutex1
+	url = https://github.com/MahendraSondagar/FreeRTOS-Recursive-Mutex1.git
