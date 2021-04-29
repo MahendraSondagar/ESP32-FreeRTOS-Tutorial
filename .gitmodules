@@ -25,3 +25,6 @@
 [submodule "FreeRTOS-BinarySemaphore1"]
 	path = FreeRTOS-BinarySemaphore1
 	url = https://github.com/MahendraSondagar/FreeRTOS-BinarySemaphore1.git
+[submodule "FreeRTOS-BinarySemaphore2"]
+	path = FreeRTOS-BinarySemaphore2
+	url = https://github.com/MahendraSondagar/FreeRTOS-BinarySemaphore2.git
