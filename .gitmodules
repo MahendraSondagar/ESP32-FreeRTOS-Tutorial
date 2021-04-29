@@ -31,3 +31,6 @@
 [submodule "FreeRTOS-CountingSemaphore1"]
 	path = FreeRTOS-CountingSemaphore1
 	url = https://github.com/MahendraSondagar/FreeRTOS-CountingSemaphore1.git
+[submodule "FreeRTOS-Timer1"]
+	path = FreeRTOS-Timer1
+	url = https://github.com/MahendraSondagar/FreeRTOS-Timer1.git
