@@ -28,3 +28,6 @@
 [submodule "FreeRTOS-BinarySemaphore2"]
 	path = FreeRTOS-BinarySemaphore2
 	url = https://github.com/MahendraSondagar/FreeRTOS-BinarySemaphore2.git
+[submodule "FreeRTOS-CountingSemaphore1"]
+	path = FreeRTOS-CountingSemaphore1
+	url = https://github.com/MahendraSondagar/FreeRTOS-CountingSemaphore1.git
