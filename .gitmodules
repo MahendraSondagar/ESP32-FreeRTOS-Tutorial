@@ -46,3 +46,6 @@
 [submodule "FreeRTOS-EventGroup"]
 	path = FreeRTOS-EventGroup
 	url = https://github.com/MahendraSondagar/FreeRTOS-EventGroup
+[submodule "FreeRTOS-EventGroup2"]
+	path = FreeRTOS-EventGroup2
+	url = https://github.com/MahendraSondagar/FreeRTOS-EventGroup2
