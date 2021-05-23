@@ -43,3 +43,6 @@
 [submodule "FreeRTOS-TaskNotifications3"]
 	path = FreeRTOS-TaskNotifications3
 	url = https://github.com/MahendraSondagar/FreeRTOS-TaskNotifications3
+[submodule "FreeRTOS-EventGroup"]
+	path = FreeRTOS-EventGroup
+	url = https://github.com/MahendraSondagar/FreeRTOS-EventGroup
