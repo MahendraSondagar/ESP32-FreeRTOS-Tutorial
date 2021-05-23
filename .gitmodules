@@ -37,3 +37,6 @@
 [submodule "FreeRTOS-TaskNotifications"]
 	path = FreeRTOS-TaskNotifications
 	url = https://github.com/MahendraSondagar/FreeRTOS-TaskNotifications
+[submodule "FreeRTOS-TaskNotifications2"]
+	path = FreeRTOS-TaskNotifications2
+	url = https://github.com/MahendraSondagar/FreeRTOS-TaskNotifications2
