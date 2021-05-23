@@ -34,3 +34,6 @@
 [submodule "FreeRTOS-Timer1"]
 	path = FreeRTOS-Timer1
 	url = https://github.com/MahendraSondagar/FreeRTOS-Timer1.git
+[submodule "FreeRTOS-TaskNotifications"]
+	path = FreeRTOS-TaskNotifications
+	url = https://github.com/MahendraSondagar/FreeRTOS-TaskNotifications
