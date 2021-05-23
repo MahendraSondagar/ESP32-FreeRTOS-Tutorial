@@ -49,3 +49,6 @@
 [submodule "FreeRTOS-EventGroup2"]
 	path = FreeRTOS-EventGroup2
 	url = https://github.com/MahendraSondagar/FreeRTOS-EventGroup2
+[submodule "FreeRTOS-BinarySemaphore"]
+	path = FreeRTOS-BinarySemaphore
+	url = https://github.com/MahendraSondagar/FreeRTOS-BinarySemaphore
